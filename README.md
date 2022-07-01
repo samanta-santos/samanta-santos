@@ -3,11 +3,11 @@
 
 <div align="center" >  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samanta-Santos&show_icons=true&count_private=true&hide_border=true&title_color=e67993&icon_color=e67993&text_color=f0f6fc&bg_color=0d1117"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanta-Santos&layout=compact&hide_border=true&title_color=e67993&text_color=f0f6fc&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanta-Santos&layout=compact&hide_border=true&title_color=e67993&text_color=f0f6fc&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <h2> Skills </h2>
+  <h2> Habilidades </h2>
 	
   <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
