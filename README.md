@@ -16,7 +16,8 @@
 <div align="center">
   <h2> 📚 Studying </h2>
 	
-  <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-reactjs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-react native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-typescrypt-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-styled components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
 </div>
